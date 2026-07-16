@@ -32,10 +32,11 @@ Welcome to my GitHub profile!I'm a cybersecurity student passionate about cloud 
 
 ## 📁 What you'll find here
 
-* 🔵 **Cloud Security & Kubernetes environments**
+* 🔵 **SOC simulation labs & SIEM use cases**
 * 🚩 **Digital forensics & network detection walkthroughs (Wireshark, netstat)**
 * 🛰️ **Aerospace & Satellite cybersecurity research (GNU Radio, SatNOGS)**
 * 📝 **Incident Response frameworks (NIST SP 800-61r2) & playbooks**
+  
 
 
 ---
