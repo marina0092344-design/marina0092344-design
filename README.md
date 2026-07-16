@@ -2,11 +2,9 @@
 
 Cybersecurity Student | Aspiring SOC Analyst
 
-Welcome to my GitHub profile! I am a passionate and detail-oriented **Cyber Security Analyst** specializing in Cloud Security, Network Forensics, . I love securing digital environments, analyzing network traffic, and building resilient systems.
-
 ## 🛡️ About me
 
-I'm a cybersecurity student passionate about cloud security, threat detection, and digital forensics. Currently building hands-on skills in network analysis, incident response frameworks, and aerospace cybersecurity through practical lab environments.
+Welcome to my GitHub profile!I'm a cybersecurity student passionate about cloud security, threat detection, and digital forensics. Currently building hands-on skills in network analysis, incident response frameworks, and aerospace cybersecurity through practical lab environments.
 
 ---
 
