@@ -39,11 +39,6 @@ I'm a cybersecurity student passionate about cloud security, threat detection, a
 * 🛰️ **Aerospace & Satellite cybersecurity research (GNU Radio, SatNOGS)**
 * 📝 **Incident Response frameworks (NIST SP 800-61r2) & playbooks**
 
-## 📈 My GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marina0092344-design&show_icons=true&theme=dark&hide_border=true" alt="Madiha's GitHub Stats" />
-</p>
 
 ---
 
